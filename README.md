@@ -6,10 +6,10 @@
 
 ```sh
 # Install dependencies
-npm install
+pnpm i
 
 # Run the bot
-npm start
+pnpm run dev
 ```
 
 ## Docker
@@ -30,4 +30,4 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[ISC](LICENSE) © 2022 stevending1st
+[MIT](LICENSE) © 2022 stevending1st
